@@ -82,4 +82,10 @@ Unlocking the protected document using the recovered credential to complete the 
 * **Defense-in-Depth:** Organizations should enforce long, high-entropy passphrases, modern slow-hashing algorithms (e.g., Argon2id, bcrypt), and Multi-Factor Authentication (MFA).
 
 ---
+👤 Author
+Yvette Ayitey
+Cybersecurity Internship B084D
+LinkedIn:[https://www.linkedin.com/in/yvette-ayitey-112a29344?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
+📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 03 |Project: Password Cracking & Hash Recovery | Repository: GitHub
