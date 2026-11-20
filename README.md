@@ -62,10 +62,8 @@ Extracting hashes from an encrypted PDF and recovering credentials using John th
 ### 1. Johnny GUI & JTR Engine Configuration
 Verifying that Johnny automatically detects the pre-installed `/usr/sbin/john` binary inside Kali Linux
 
-
 ### 2. Successful Password Recovery
 Running a dictionary attack against the extracted `$pdf$` hash to recover the plain-text password
-
 
 ### 3. Flag Capture Verification
 Unlocking the protected document using the recovered credential to complete the challenge
@@ -81,6 +79,12 @@ Unlocking the protected document using the recovered credential to complete the 
 
 * **Defense-in-Depth:** Organizations should enforce long, high-entropy passphrases, modern slow-hashing algorithms (e.g., Argon2id, bcrypt), and Multi-Factor Authentication (MFA).
 
+
+![Johnny Settings](screenshots/johnny-settings.png)
+![Johnny Cracked Password](screenshots/cracked-password.png)
+![Captured Flag](screenshots/flag-captured.png)
+![Hash Calculator](screenshots/hash-calculator.png)
+![Password Cracker](screenshots/password-cracker.png)
 ---
 👤 Author
 Yvette Ayitey
