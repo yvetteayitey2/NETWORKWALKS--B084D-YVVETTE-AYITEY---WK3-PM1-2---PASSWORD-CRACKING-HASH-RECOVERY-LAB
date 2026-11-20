@@ -95,7 +95,6 @@ Unlocking the protected document using the recovered credential to complete the 
 
 
 ![Cracked Password](screenshots/Cracked%20password.png)
-![Cracked PDF Password NW Tool](screenshots/Cracked%20pdf%20password%20(NW%20Tool).png)
 ![Cracked PDF Password](screenshots/Cracked%20pdf%20password.png)
 ![Cracking Password 2](screenshots/Cracking%20Password%202.png)
 ![Cracking Password](screenshots/Cracking%20Password.png)
