@@ -61,7 +61,8 @@ Extracting hashes from an encrypted PDF and recovering credentials using John th
 
 ### 1. Johnny GUI & JTR Engine Configuration
 Verifying that Johnny automatically detects the pre-installed `/usr/sbin/john` binary inside Kali Linux
-
+NETWORKWALKS--B084D-YVVETTE-AYITEY---WK3-PM1-2---PASSWORD-CRACKING-HASH-RECOVERY-LAB/screenshots
+/1st Captured Flag.png
 
 ### 2. Successful Password Recovery
 Running a dictionary attack against the extracted `$pdf$` hash to recover the plain-text password
