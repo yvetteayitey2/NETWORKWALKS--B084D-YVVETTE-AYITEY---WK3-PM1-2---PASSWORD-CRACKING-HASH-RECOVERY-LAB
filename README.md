@@ -35,7 +35,7 @@ Extracting hashes from an encrypted PDF and recovering credentials using John th
 ## 📋 Step-by-Step Execution Guide
 
 ### Module 1: Command-Line & GUI Password Cracking (JTR & Johnny)
-1. **Tool Setup:** Verified pre-installed JTR binaries (`/usr/sbin/john`) within Kali Linux and installed Johnny GUI via `sudo apt install johnny`. Configured Johnny to automatically detect the JTR Jumbo binary under **Settings**[span_20](start_span)[span_20](end_span).
+1. **Tool Setup:** Verified pre-installed JTR binaries (`/usr/sbin/john`) within Kali Linux and installed Johnny GUI via `sudo apt install johnny`. Configured Johnny to automatically detect the JTR Jumbo binary under **Settings**.
 
 2. **Hash Acquisition (`pdf2john`):** Uploaded the encrypted PDF files to extract structural encryption metadata hashes in the standard `$pdf$` format). Copied the full hash strings (ensuring no extraneous wrapper characters like `b'` were included).
 
@@ -61,7 +61,7 @@ Extracting hashes from an encrypted PDF and recovering credentials using John th
 
 ### 1. Johnny GUI & JTR Engine Configuration
 Verifying that Johnny automatically detects the pre-installed `/usr/sbin/john` binary inside Kali Linux
-![Johnny Settings](images/01-johnny-settings.png)
+![Johnny Settings](screenshots/Jonny Interface - Screenshot 1.png)
 
 ### 2. Successful Password Recovery
 Running a dictionary attack against the extracted `$pdf$` hash to recover the plain-text password
