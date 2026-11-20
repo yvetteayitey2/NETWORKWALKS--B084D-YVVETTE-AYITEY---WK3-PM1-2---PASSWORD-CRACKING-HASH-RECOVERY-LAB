@@ -80,11 +80,18 @@ Unlocking the protected document using the recovered credential to complete the 
 * **Defense-in-Depth:** Organizations should enforce long, high-entropy passphrases, modern slow-hashing algorithms (e.g., Argon2id, bcrypt), and Multi-Factor Authentication (MFA).
 
 
-![Johnny Settings](screenshots/johnny-settings.png)
-![Johnny Cracked Password](screenshots/cracked-password.png)
-![Captured Flag](screenshots/flag-captured.png)
-![Hash Calculator](screenshots/hash-calculator.png)
-![Password Cracker](screenshots/password-cracker.png)
+### 1. Johnny GUI & JTR Engine Configuration
+![Johnny Interface](screenshots/Jonny%20Interface%20-%20Screenshot%201.png)
+
+### 2. Successful Password Recovery
+![Cracked Password](screenshots/Cracked%20password.png)
+
+### 3. Flag Capture Verification
+![Captured Flag](screenshots/1st%20Captured%20Flag.png)
+
+### 4. Browser-Based Hashing (Module 2)
+![Hash Calculator](screenshots/hash%20calculator.png)
+![Password Cracker](screenshots/password%20cracker.png)
 ---
 👤 Author
 Yvette Ayitey
